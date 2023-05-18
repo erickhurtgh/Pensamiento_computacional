@@ -1,0 +1,96 @@
+1. INICIO
+2.DECLARAR anio_nacimiento(int)
+ 	anio_actual(int)	
+	edad(int)
+	nombre(str)
+3.ASIGNAR anio_actual=2023
+
+4.MOSTRAR ("Ingresa tu nombre")
+
+5.ASIGNAR nombre
+
+6. MOSTRAR ("Ingresa tu año de nacimiento")
+
+7.ASIGNAR anio_nacimiento
+
+8.edad=anio_actual-anio_nacimiento
+
+9.MOSTRAR ("tu edad",nombre"es de",edad,"años")	
+
+10.FIN
+
+Programa
+
+Algoritmo Ejercicio1
+	Definir anio_nacimiento Como Entero
+	Definir anio_actual Como Entero
+	Definir edad Como Entero
+	definir nombre Como Caracter
+	anio_actual<-2023
+	Escribir "Ingresa tu nombre"
+	Leer nombre
+	Escribir "Ingresa tu año de nacimiento"
+	Leer anio_nacimiento
+	edad<-anio_actual-anio_nacimiento
+	Escribir "tu edad ",nombre, " es de ",edad," años"
+FinAlgoritmo
+
+
+Programa que calcule el promedio de un alumno al cual se le solicita
+
+1.INICIO
+2.DECLARAR 	cal1(float)
+		cal2(float)
+		cal3(float)
+		cal4(float)
+		promedio(float)
+		nombre(str)
+3.MOSTRAR("Ingresa el nombre del alumno)
+
+4. ASIGNAR nombre
+
+5.MOSTRAR ("Ingtresa la calificacion 1 de",nombre)
+
+6. ASIGNAR cal1
+
+7.MOSTRAR ("Ingtresa la calificacion 2 de",nombre)
+
+8. ASIGNAR cal2
+
+9.MOSTRAR ("Ingtresa la calificacion 3 de",nombre)
+
+10. ASIGNAR cal3
+
+11.MOSTRAR ("Ingtresa la calificacion 4 de",nombre)
+
+12. ASIGNAR cal4
+
+13.promedio=(cal1+cal2+cal3+cal4)/4
+
+14.MOSTRAR(nombre ,":",cal1=
+
+programa
+
+Algoritmo sin_titulo
+	Definir nombre Como Caracter
+	Definir cal1 Como Real
+	Definir cal2 Como Real
+	Definir cal3 Como Real
+	Definir cal4 Como Real
+	Definir Promedio Como Real
+	Escribir "Ingresa nombre del alumno"
+	Leer nombre
+	Escribir "Ingresa la calificacion 1 de",nombre
+	Leer cal1
+	Escribir "Ingresa la calificacion 2 de",nombre
+	Leer cal2	
+	Escribir "Ingresa la calificacion 3 de",nombre
+	Leer cal3
+	Escribir "Ingresa la calificacion 4 de ",nombre
+	Leer cal4
+	promedio<-(cal1+cal2+cal3+cal4)/4
+	Escribir nombre ,":calificacion1 :",cal1," calificacion 2: ",cal2," calificacion 3 ",cal3," calificacion 4",cal4," proedio : ",Promedio
+FinAlgoritmo
+
+
+

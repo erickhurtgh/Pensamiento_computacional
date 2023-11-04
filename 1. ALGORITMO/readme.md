@@ -1,3 +1,11 @@
+![image](https://github.com/escuelaDeCodigoMargaritaMaza/Pensamiento_computacional/assets/91554777/857b9558-ba46-4cd8-ae0c-11fc3a659efc)
+
+https://survey.stackoverflow.co/2023/
+
+## QUÉ ES PROGRAMAR?
+Resolver problemas de la vida real de forma automáica a través de un programa, podemos automatizar un proceso que antes se realizaba manualmente.
+
+
 # PENSAMIENTO COMPUTACIONAL.
 El pensamiento computacional es un proceso cognitivo de alto nivel que nos permite pensar de manera científica a la hora de resolver un problema.
 
@@ -7,6 +15,9 @@ CUATRO EJES:
 * Saber reconocer patrones: todo fenómeno, toda experiencia, estímulo, problema o circunstancia suele seguir un esquema interno y responder a un patrón que podemos identificar.
 * Pensamiento abstracto. Este tipo de razonamiento es exclusivo del ser humano. Gracias a él podemos crear ideas originales o más interesante aún, prever situaciones o escenarios para saber cómo actuaríamos ante esas circunstancias.
 * Algoritmos. Un algoritmo es un plan, un conjunto de pasos o esquemas que nos permiten solucionar un problema paso a paso. Gracias a ellos logramos elaborar una serie de instrucciones claras y simples con las que afrontar cualquier encrucijada. Asimismo hay aspectos que los definen, como por ejemplo, que siempre tienen un número finito de pasos, que se orientan a un fin y que son específicos (no ambiguos).
+
+
+
 
 # ALGORITMO
 
